@@ -1,1 +1,1 @@
-spi: python spi.py
+worker: python3 bot.py
